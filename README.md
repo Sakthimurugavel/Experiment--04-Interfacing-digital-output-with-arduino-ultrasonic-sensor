@@ -1,4 +1,4 @@
-# EXPERIMENT-NO--05-Distance measurement using Ultrasonic sensor
+# EXPERIMENT-NO--04-Distance measurement using Ultrasonic sensor
 
 ## AIM: 
 To interface an ultrasonic pair and measure the distance in centimeters , calculate the error
@@ -106,13 +106,12 @@ void loop()
 			Average error = sum/ number of readings 
  
 ### output
+### before simulation:
 
+![237399091-d4bb7a24-2c49-44a3-b750-a3f7d95e63fd](https://github.com/Sakthimurugavel/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/118707246/98e28e9c-b1a4-4ef4-a863-83792de77fba)
 
+### after simulation:
 ![Screenshot (80)](https://github.com/Sakthimurugavel/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/118707246/da8956c5-dae8-4bec-b43f-651e74703f57)
-
-
-
-
 
 ### RESULTS
 Thus the distance value is measured in "CM" using ultrasonic sensor
